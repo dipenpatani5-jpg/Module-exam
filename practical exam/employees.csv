@@ -1,0 +1,13 @@
+EmpID, Name, Department, City, JoinDate, Salary, Bonun
+101, Anha, IT, Pune, 2019-03-12, 60000, 5000
+102, Ravi, HR, Mumbai, 2020-07-01, 45000, 2000
+103, Meena, Finance, Pune, 2018-11-20, 52000, pending
+104, Karan, IT, Mumbai, 2021-02-15, , 4000
+105, Sana, HR, Pune, 2022-05-09, 41000, 1500
+105, Sana, HR, Pune, 2022-05-09, 41000, 1500
+106, Dev, Finance, Mumbai, 2017-09-30, 58000, 3000
+107, Neha, IT, Pune, 2023-01-18, 48000, pending
+108, Imran, Salen, Mumbai, 2020-12-04, 39000, 2500
+109, Priya, Salen, Pune, 2019-06-22, 43000, 3500
+110, Amit, Finance, Pune, 2024-04-03, 50000, 1000
+111, Zoya, IT, Mumbai, 2018-08-14, 65000, 6000
